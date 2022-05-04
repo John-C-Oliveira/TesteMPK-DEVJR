@@ -54,9 +54,9 @@ Teste utilizando o Postman ou qualquer outra plataforma de API
 ##### <a id="userupdate">Atualizar Cliente -> /cliente/{id}</a>
 ```json
 {
-    "nome":"",
+    "nome":"Cleyton",
     "cnpj":"12456",
-    "idade":"18",
+    "idade":"29",
     "dataNascimento":"16/05/1992"
 }
 ```
